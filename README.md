@@ -1,8 +1,5 @@
 # Task-1-Landing-Page
 
-# Demo
-"C:\Users\Sai\Downloads\level 1-task 1.mp4"
-
 # Objective
 
 A landing page is one of the best web development projects for beginners. 
